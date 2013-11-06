@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="verticalPadding">100sp</dimen>
+    <dimen name="textSize">180sp</dimen>
+</resources>
