@@ -8,6 +8,7 @@ App Android connessa ad Arduino Mega tramite USB-Host e Arduino UNO tramite blue
 
 
 Video:  http://www.youtube.com/watch?v=ArQQTXXVgWA
+
 Site:   http://ld13bari.github.io/
 
 
